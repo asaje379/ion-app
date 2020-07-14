@@ -1,0 +1,32 @@
+[
+    {
+        "nom": "Lanches",
+        "prix": 5000,
+        "url": "assets/imgs/bg-lanches.jpg"
+    },
+    {
+        "nom": "Sobremesas",
+        "prix": 8000,
+        "url": "assets/imgs/bg-sobremesas.jpg"
+    },
+    {
+        "nom": "Sucos",
+        "prix": 2000,
+        "url": "assets/imgs/bg-sucos.jpg"
+    },
+    {
+        "nom": "Lanche",
+        "prix": 7500,
+        "url": "assets/imgs/lanche.jpg"
+    },
+    {
+        "nom": "Pizza",
+        "prix": 10000,
+        "url": "assets/imgs/pizza.jpg"
+    },
+    {
+        "nom": "Burger",
+        "prix": 5500,
+        "url": "assets/imgs/login-bg.png"
+    }
+]
