@@ -1,6 +1,6 @@
 # Pizza Shop Ionic App
 
-#Installation
+# Installation
 
 npm i
 
